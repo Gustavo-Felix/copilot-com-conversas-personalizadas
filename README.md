@@ -12,22 +12,22 @@ Nesta atividade, foi realizada a criação de um Copiloto personalizado a partir
 
 ### Etapas do Desafio
 
-* Criar um Copilot em branco [https://copilotstudio.microsoft.com/](https://copilotstudio.microsoft.com/)
+* **Criar um Copilot em branco [https://copilotstudio.microsoft.com/](https://copilotstudio.microsoft.com/)**
 
 <img src="CopilotBranco.png" alt="Imagem da Criação do Copilot em Branco">
 
-* Customizar um tópico
+* **Customizar um tópico**
 
 <img src="CutomizarTopico.png" alt="Customização de um tópico">
 
-* Personalizar uma mensagem de erro de tópico
+* **Personalizar uma mensagem de erro de tópico**
 
 <img src="MensagemErro.png" alt='Personalizando uma mensagem de erro de tópico'>
 
-* Aumentar e diminuir a qualidade da resposta com GenAI
+* **Aumentar e diminuir a qualidade da resposta com GenAI**
 
-<img src="GenAI1.png" alt="Aumentando e diminuindo a qualidade da resposta com GenAI">
-<img src="GenAI2.png" alt="Aumentando e diminuindo a qualidade da resposta com GenAI">
+<img src="GenIA1.png" alt="Aumentando e diminuindo a qualidade da resposta com GenAI">
+<img src="GenIA2.png" alt="Aumentando e diminuindo a qualidade da resposta com GenAI">
 
 ## Links Importantes - Disponibilizados durante o desafio
 
